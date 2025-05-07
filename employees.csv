@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,HireDate,TerminationDate,Salary,Age,Gender
+1,Ivan Petrenko,HR,2021-03-01,,800,28,Male
+2,Olga Shevchenko,IT,2020-07-15,,1200,32,Female
+3,Andrii Koval,Finance,2019-05-20,2023-07-01,1500,40,Male
+4,Kateryna Bondar,HR,2022-01-10,,900,25,Female
+5,Dmytro Melnyk,IT,2018-12-01,,1300,35,Male
+6,Yuliia Tkachenko,Marketing,2020-10-05,,1000,30,Female
+7,Serhii Kravchenko,Finance,2021-11-30,2024-03-15,1600,45,Male
+8,Anna Polishchuk,Marketing,2023-02-14,,950,27,Female
+9,Mykola Sydorenko,HR,2021-06-18,,850,29,Male
+10,Nadiia Hrytsenko,Finance,2022-09-01,,1550,38,Female
